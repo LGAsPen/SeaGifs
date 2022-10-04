@@ -1,0 +1,9 @@
+*{
+    background-color: aliceblue;
+}
+.TituloPrincipal{
+    padding-top: 20pt;
+    font-family: 'Calibri';
+    font-size: 40px;
+    text-align: center;
+}

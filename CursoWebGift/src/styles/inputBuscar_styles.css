@@ -1,0 +1,27 @@
+.InputBuscar{
+    background-color: white;
+    background-image: url('../../assets/busqueda.png') ;    
+    background-size: 27px;
+    background-position: 97% 50%;    
+    border-radius: 30px;
+    border-style: solid;
+    border-color: rgb(130, 132, 144);
+    background-repeat: no-repeat;
+
+    padding-left: 10px;
+    padding-right: 5%;
+    height: 40px;
+    width: 40%;
+
+    font-size: 13px;
+    
+}
+
+.formBuscar{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
